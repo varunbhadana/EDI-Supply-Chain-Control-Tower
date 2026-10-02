@@ -1,0 +1,27 @@
+{
+  "train_rows": 626,
+  "test_rows": 157,
+  "late_rate_train": 0.385,
+  "late_rate_test": 0.369,
+  "roc_auc": 0.985,
+  "precision": 0.912,
+  "recall": 0.897,
+  "f1": 0.904,
+  "baseline_accuracy_always_on_time": 0.631,
+  "accuracy": 0.93,
+  "feature_importance": {
+    "ship_delay_days": 0.2564,
+    "slack_days": 0.109,
+    "mode": 0.0195,
+    "supplier_id": 0.0018,
+    "ordered_value": 0.0016,
+    "qty_ordered": 0.0011,
+    "ack_short_pct": 0.0009,
+    "ship_short_pct": 0.0003,
+    "n_lines": 0.0,
+    "ack_changed": 0.0,
+    "ship_month": 0.0,
+    "destination": -0.0003,
+    "carrier": -0.0033
+  }
+}
