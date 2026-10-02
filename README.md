@@ -3,11 +3,6 @@
 A simulated enterprise supply chain that I built to understand how EDI messages, a data layer, a small ML model and an AI assistant fit together to give end-to-end visibility, from purchase order to invoice.
 
 **Author:** Varun Bhadana
-Political Science (Hons.), University of Delhi, applying for a Master's in Supply Chain and Global Logistics in Germany.
-
-## Why I built this
-
-My degree is in political science, but the topics I kept coming back to were trade policy, sanctions, port disruptions and how geopolitical events end up as late containers and empty shelves. I wanted to see that story from the operational side. Instead of only reading about supply chain risk, I wanted to build the data flow that a company uses to detect it. This project is my first step in moving from policy analysis to supply chain analytics.
 
 ## What it does
 
